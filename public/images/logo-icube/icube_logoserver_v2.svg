@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 211.60164 51.0197">
+  <defs>
+    <style>
+      .cls-1, .cls-12, .cls-13, .cls-18, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        stroke: #878787;
+        stroke-width: 0.05px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-18, .cls-4, .cls-5, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-6, .cls-8 {
+        stroke: #9d9d9c;
+        stroke-width: 0.5px;
+        stroke-dasharray: 5 4;
+      }
+
+      .cls-14, .cls-15, .cls-16, .cls-17, .cls-19, .cls-20, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-linecap: round;
+      }
+
+      .cls-10, .cls-11, .cls-14, .cls-15, .cls-16, .cls-17, .cls-19, .cls-20, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-14, .cls-15, .cls-16, .cls-17, .cls-19, .cls-20, .cls-6, .cls-7 {
+        stroke-linejoin: round;
+      }
+
+      .cls-7 {
+        stroke: #575756;
+      }
+
+      .cls-10, .cls-14, .cls-16, .cls-18, .cls-19, .cls-7, .cls-9 {
+        stroke-width: 1.25px;
+      }
+
+      .cls-11, .cls-16, .cls-17, .cls-9 {
+        stroke: #063;
+      }
+
+      .cls-10, .cls-13, .cls-14, .cls-15 {
+        stroke: #e30613;
+      }
+
+      .cls-12, .cls-18, .cls-19, .cls-20 {
+        stroke: #1d66a6;
+      }
+
+      .cls-13 {
+        stroke-dasharray: 18 3;
+      }
+
+      .cls-21 {
+        font-size: 7.09363px;
+        fill: #706f6f;
+        font-family: SFProDisplay-Semibold, SF Pro Display;
+        font-weight: 600;
+        letter-spacing: 0.03504em;
+      }
+
+      .cls-22 {
+        font-size: 23px;
+        fill: #f39200;
+        font-family: SFProDisplay-Regular, SF Pro Display;
+        letter-spacing: 0.03501em;
+      }
+
+      .cls-23 {
+        fill: #0f62a5;
+      }
+
+      .cls-23, .cls-24 {
+        letter-spacing: 0.03499em;
+      }
+
+      .cls-24, .cls-25, .cls-26 {
+        fill: #575756;
+      }
+
+      .cls-25 {
+        letter-spacing: 0.02034em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <polygon class="cls-1" points="23.676 26.476 22.323 27.257 20.969 26.476 20.969 24.913 22.323 24.132 23.676 24.913 23.676 26.476"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" x="15.96942" y="19.13192" width="12.70654" height="13.12549"/>
+    </clipPath>
+  </defs>
+  <title>Asset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g>
+          <g>
+            <g class="cls-2">
+              <g class="cls-3">
+                <image width="28" height="29" transform="translate(15.56264 18.74006) scale(0.48)" xlink:href="data:image/png;base64,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"/>
+              </g>
+            </g>
+            <polygon class="cls-4" points="23.676 26.476 22.323 27.257 20.969 26.476 20.969 24.913 22.323 24.132 23.676 24.913 23.676 26.476"/>
+          </g>
+          <polyline class="cls-5" points="21.888 0.769 20.287 1.816 0.592 14.699 0.592 36.692 21.846 50.115"/>
+          <polyline class="cls-5" points="22.393 0.635 43.872 14.767 43.872 36.76 22.393 50.351"/>
+          <line class="cls-6" x1="1.29953" y1="36.27835" x2="18.50638" y2="27.47713"/>
+          <line class="cls-6" x1="42.96201" y1="36.39963" x2="25.16474" y2="27.15329"/>
+          <g>
+            <line class="cls-7" x1="43.74244" y1="34.47521" x2="43.74244" y2="36.69793"/>
+            <line class="cls-7" x1="41.94365" y1="37.81754" x2="43.73664" y2="36.7464"/>
+            <line class="cls-7" x1="41.50269" y1="35.54578" x2="43.61426" y2="36.78127"/>
+          </g>
+          <g>
+            <line class="cls-7" x1="0.68334" y1="34.63455" x2="0.68785" y2="36.68633"/>
+            <line class="cls-7" x1="2.7015" y1="37.83357" x2="0.68334" y2="36.70998"/>
+            <line class="cls-7" x1="2.9032" y1="35.41363" x2="0.76909" y2="36.56438"/>
+          </g>
+          <line class="cls-8" x1="22.14726" y1="21.72889" x2="22.13582" y2="3.7555"/>
+          <g>
+            <g>
+              <line class="cls-7" x1="20.16883" y1="1.98279" x2="22.14129" y2="0.625"/>
+              <line class="cls-7" x1="24.07271" y1="1.88007" x2="22.14129" y2="0.625"/>
+            </g>
+            <line class="cls-7" x1="22.14129" y1="0.70976" x2="22.14129" y2="3.11203"/>
+          </g>
+          <line class="cls-9" x1="18.37227" y1="24.093" x2="1.22092" y2="14.89074"/>
+          <line class="cls-10" x1="26.05563" y1="23.98071" x2="43.18819" y2="14.78966"/>
+          <path class="cls-11" d="M19.13078,26.76767a3.0548,3.0548,0,0,1,.44725-2.9436,3.30392,3.30392,0,0,1,1.97186-1.227"/>
+          <path class="cls-12" d="M24.80135,27.50656a3.34626,3.34626,0,0,1-4.5513.6982,3.15058,3.15058,0,0,1-.64033-.59909"/>
+          <path class="cls-13" d="M22.82615,22.58164a3.2625,3.2625,0,0,1,1.30317.54423,3.05012,3.05012,0,0,1,1.2443,3.15152"/>
+          <line class="cls-14" x1="41.71411" y1="13.21243" x2="43.58973" y2="14.53318"/>
+          <line class="cls-14" x1="43.70462" y1="16.85908" x2="43.70462" y2="14.63156"/>
+          <line class="cls-15" x1="41.2147" y1="15.84148" x2="43.44748" y2="14.67646"/>
+          <line class="cls-16" x1="2.39641" y1="13.51836" x2="0.64754" y2="14.63623"/>
+          <line class="cls-16" x1="0.67131" y1="16.95269" x2="0.625" y2="14.6447"/>
+          <line class="cls-17" x1="3.30811" y1="15.99992" x2="1.16981" y2="14.85697"/>
+          <line class="cls-18" x1="22.32264" y1="49.72375" x2="22.10125" y2="29.66036"/>
+          <line class="cls-19" x1="20.39733" y1="49.20001" x2="22.35624" y2="50.37941"/>
+          <line class="cls-19" x1="24.35608" y1="49.11037" x2="22.37484" y2="50.3947"/>
+          <line class="cls-20" x1="22.29348" y1="47.7519" x2="22.34306" y2="50.11219"/>
+          <text class="cls-21" transform="matrix(0.69962, -0.4446, 0.05511, 0.99848, 24.26235, 47.73422)">Cube</text>
+        </g>
+        <text class="cls-22" transform="translate(53.60829 32.40639)">i<tspan class="cls-23" x="5.49951" y="0">Cube </tspan><tspan class="cls-24" x="66.66504" y="0">Ser</tspan><tspan class="cls-25" x="101.60352" y="0">v</tspan><tspan class="cls-26" x="113.17822" y="0">er</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+[
+  {
+    "partNumber": "TG127100-69611T",
+    "description": "Intercooler Assy",
+    "model": "+640B",
+    "balance": 2131,
+    "pcs" : 200,
+    "dueDate" : "04/09/2025",
+    "reason" : "Safety Recovery"
+},
+{
+    "partNumber": "TG127100-69612T",
+    "description": "Radiator Assy",
+    "model": "+641C",
+    "balance": 1500,
+    "pcs": 180,
+    "dueDate": "05/10/2025",
+    "reason": "Production Increase"
+},
+{
+    "partNumber": "TG127100-69613T",
+    "description": "Compressor Assy",
+    "model": "+642D",
+    "balance": 980,
+    "pcs": 220,
+    "dueDate": "06/11/2025",
+    "reason": "New Model Launch"
+},
+{
+    "partNumber": "TG127100-69614T",
+    "description": "Condenser Assy",
+    "model": "+643E",
+    "balance": 1200,
+    "pcs": 210,
+    "dueDate": "07/12/2025",
+    "reason": "Backorder Fulfillment"
+}
+]

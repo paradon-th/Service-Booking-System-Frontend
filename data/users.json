@@ -1,0 +1,87 @@
+[
+    {
+        "username": "Nattapong Ratanakulchai",
+        "email": "nattapong.rat@company.com",
+        "status": "Active",
+        "roleId": 2,
+        "roleName": "Production Planner",
+        "group": "",
+        "permissions": [
+            {"module": "Overview", "access": "read/write/delete/create"},
+            {"module": "Production Simulate", "access": "read/write/delete/create"},
+            {"module": "Input Actual Production (PD)", "access": "read/write/delete/create"},
+            {"module": "Manual Input Production Plan", "access": "read/write/delete/create"},
+            {"module": "Part Checking", "access": "read/write/delete/create"},
+            {"module": "Master Data Line sub", "access": "read/write/delete/create"},
+            {"module": "Transaction Data", "access": "read/write/delete/create"},
+            {"module": "User Management", "access": "read/write/delete/create"},
+            {"module": "Group Management", "access": "read/write/delete/create"},
+            {"module": "Role & Permission Management", "access": "read/write/delete/create"}
+        ]
+    },
+        {
+        "username": "Supaporn Chaiyapruk",
+        "email": "supaporn.chai@company.com",
+        "status": "Active",
+        "roleId": 3,
+        "roleName": "Viewer",
+        "group": "",
+        "permissions": [
+            {"module": "Overview", "access": "read/write/delete/create"},
+            {"module": "Production Simulate", "access": "read/write/delete/create"},
+            {"module": "Input Actual Production (PD)", "access": "read/write/delete/create"},
+            {"module": "Manual Input Production Plan", "access": "read/write/delete/create"},
+            {"module": "Part Checking", "access": "read/write/delete/create"},
+            {"module": "Master Data Line sub", "access": "read/write/delete/create"},
+            {"module": "Transaction Data", "access": "read/write/delete/create"}
+        ]
+    },
+        {
+        "username": "Phiraphat Thongchai",
+        "email": "phiraphat.th@company.com",
+        "status": "Active",
+        "roleId": 3,
+        "roleName": "Viewer",
+        "group": "",
+        "permissions": [
+            {"module": "Overview", "access": "read/write/delete/create"},
+            {"module": "Production Simulate", "access": "read/write/delete/create"}
+        ]
+    },    
+    {
+        "username": "Kanchana Boonlert",
+        "email": "kanchana.boo@company.com",
+        "status": "Offline",
+        "roleId": 1,
+        "roleName": "Administrator",
+        "group": "",
+        "permissions": [
+            {"module": "User Management", "access": "read/write/delete/create"},
+            {"module": "Group Management", "access": "read/write/delete/create"}
+        ]
+    },
+        {
+        "username": "Teerapong Pattanachai",
+        "email": "teerapong.pat@company.com",
+        "status": "Offline",
+        "roleId": 2,
+        "roleName": "Production Planner",
+        "group": "",
+        "permissions": [
+            {"module": "Overview", "access": "read/write/delete/create"},
+            {"module": "Production Simulate", "access": "read/write/delete/create"}
+        ]
+    },
+        {
+        "username": "Worawan Ratchanon",
+        "email": "worawan.rat@company.com",
+        "status": "Active",
+        "roleId": 1,
+        "roleName": "Administrator",
+        "group": "",
+        "permissions": [
+            {"module": "User Management", "access": "read/write/delete/create"}
+        ]
+    }
+
+]

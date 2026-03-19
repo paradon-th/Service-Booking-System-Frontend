@@ -1,0 +1,67 @@
+[
+  {
+    "partNumber": "TG127100-69611T",
+    "description": "Intercooler Assy",
+    "model": "+640B",
+    "begin": 1810,
+    "days": [
+      { "date": "01 Sep 2025", "plan": 378 },
+      { "date": "02 Sep 2025", "plan": 381 },
+      { "date": "03 Sep 2025", "plan": 200 },
+      { "date": "04 Sep 2025", "plan": 38 },
+      { "date": "05 Sep 2025", "plan": 100 },
+      { "date": "06 Sep 2025", "plan": 2 },
+      { "date": "07 Sep 2025", "plan": 60 }
+    ],
+    "balance": 2131
+    
+  },
+  {
+    "partNumber": "TG127100-69613T",
+    "description": "Intercooler Assy",
+    "model": "+645B",
+    "begin": -806,
+    "days": [
+      { "date": "01 Sep 2025", "plan": 20 },
+      { "date": "02 Sep 2025", "plan": 820 },
+      { "date": "03 Sep 2025", "plan": 189 },
+      { "date": "04 Sep 2025", "plan": 345 },
+      { "date": "05 Sep 2025", "plan": 240 },
+      { "date": "06 Sep 2025", "plan": 8 },
+      { "date": "07 Sep 2025", "plan": 92 }
+    ],
+    "balance": -926
+  },
+  {
+    "partNumber": "TG127100-69614T",
+    "description": "Intercooler",
+    "model": "+700B",
+    "begin": 300,
+    "days": [
+      { "date": "01 Sep 2025", "plan": 529 },
+      { "date": "02 Sep 2025", "plan": 193 },
+      { "date": "03 Sep 2025", "plan": 200 },
+      { "date": "04 Sep 2025", "plan": 38 },
+      { "date": "05 Sep 2025", "plan": 100 },
+      { "date": "06 Sep 2025", "plan": 2 },
+      { "date": "07 Sep 2025", "plan": 10 }
+    ],
+    "balance": 21
+  },
+  {
+    "partNumber": "TG127100-69615T",
+    "description": "Intercooler",
+    "model": "+257B",
+    "begin": 290,
+    "days": [
+      { "date": "01 Sep 2025", "plan": -30 },
+      { "date": "02 Sep 2025", "plan": 90 },
+      { "date": "03 Sep 2025", "plan": 6 },
+      { "date": "04 Sep 2025", "plan": 98 },
+      { "date": "05 Sep 2025", "plan": 290 },
+      { "date": "06 Sep 2025", "plan": 49 },
+      { "date": "07 Sep 2025", "plan": 82 }
+    ],
+    "balance": 21
+  }
+]
