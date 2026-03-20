@@ -1,4 +1,4 @@
-import { House, CalendarClock, Settings, Users, ShieldCheck } from "lucide-react";
+import { House, CalendarClock, Settings, Users, ShieldCheck, Shield } from "lucide-react";
 import type { ComponentType } from "react";
 import { ServiceFunction } from "@/lib/auth/service-functions";
 
@@ -49,7 +49,20 @@ export const AUTH_NAV_GROUPS: NavGroup[] = [
         serviceFuncIds: [ServiceFunction.SecurityUser],
         requiredPermissions: [PermissionType.Read, PermissionType.Create, PermissionType.Update, PermissionType.Delete],
         items: [
-          { title: "User Management", href: "/user-management", icon: Users, serviceFuncIds: [ServiceFunction.SecurityUser], requiredPermissions: [PermissionType.Read, PermissionType.Create, PermissionType.Update, PermissionType.Delete] },
+          { 
+            title: "User Management", 
+            href: "/user-management", 
+            icon: Users, 
+            serviceFuncIds: [ServiceFunction.SecurityUser],
+            requiredPermissions: [PermissionType.Read, PermissionType.Create, PermissionType.Update, PermissionType.Delete]
+          },
+          { 
+            title: "Role Management", 
+            href: "/role-management", 
+            icon: Shield, 
+            serviceFuncIds: [ServiceFunction.SecurityRole],
+            requiredPermissions: [PermissionType.Read, PermissionType.Create, PermissionType.Update, PermissionType.Delete]
+          },
           { title: "System Setup", href: "/system-management", icon: Settings, requiredPermissions: [PermissionType.Read] },
         ]
       }
